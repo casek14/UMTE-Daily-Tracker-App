@@ -3,4 +3,7 @@
     <string name="btn_value_main_day">Day</string>
     <string name="btn_value_main_week">Week</string>
     <string name="btn_value_main_month">Month</string>
+    <string name="txt_nadpis_kategorie">Kategorie:</string>
+    <string name="txt_hodnota_kategorie">none</string>
+    <string name="btn_value_add_pod_kategorie">Pridat pod kategorii</string>
 </resources>

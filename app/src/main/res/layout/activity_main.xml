@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:visibility="visible"
-    tools:context="com.example.casek.beta01.MainActivity">
+    tools:context="com.example.casek.beta01.MainActivity"
+
+    >
 
     <LinearLayout
         android:id="@+id/linear_main_horizontal_main"
