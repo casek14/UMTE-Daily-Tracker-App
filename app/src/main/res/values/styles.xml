@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SportTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/sport</item>
+        <item name="colorPrimaryDark">@color/sportDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="WorkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/work</item>
+        <item name="colorPrimaryDark">@color/workDark</item>
+        <item name="colorAccent">@color/workOpp</item>
+    </style>
+
+    <style name="SocialTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/social</item>
+        <item name="colorPrimaryDark">@color/socialDark</item>
+        <item name="colorAccent">@color/socialOpp</item>
+    </style>
+
+    <style name="SchoolTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/school</item>
+        <item name="colorPrimaryDark">@color/schoolDark</item>
+        <item name="colorAccent">@color/schoolOpp</item>
+    </style>
+
+
+
+</resources>
