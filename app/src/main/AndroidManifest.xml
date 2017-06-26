@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AktivityDetail"></activity>
+        <activity android:name=".AktivityDetail" />
+        <activity android:name=".add_subcategory"></activity>
     </application>
 
 </manifest>

@@ -5,5 +5,8 @@
     <string name="btn_value_main_month">Month</string>
     <string name="txt_nadpis_kategorie">Kategorie:</string>
     <string name="txt_hodnota_kategorie">none</string>
-    <string name="btn_value_add_pod_kategorie">Pridat pod kategorii</string>
+    <string name="btn_value_add_pod_kategorie">Pridat podkategorii</string>
+    <string name="btn_value_subcategory_create">Vytvorit podkategorii</string>
+    <string name="txt_subcategory_heading">Nazev podkategorie</string>
+    <string name="txt_category_heading">Kategorie:</string>
 </resources>

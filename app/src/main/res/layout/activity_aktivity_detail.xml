@@ -25,10 +25,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="@string/txt_nadpis_kategorie" />
+                android:text="@string/txt_category_heading" />
 
             <TextView
-                android:id="@+id/kategorie_nadpis_hodnota"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -48,11 +47,10 @@
             android:layout_weight="0.58" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/btn_pridat_podkategorii"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/btn_value_add_pod_kategorie"
-            />
+            android:text="@string/btn_value_add_pod_kategorie" />
 
     </LinearLayout>
 
