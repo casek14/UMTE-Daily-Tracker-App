@@ -9,4 +9,7 @@
     <string name="btn_value_subcategory_create">Vytvorit podkategorii</string>
     <string name="txt_subcategory_heading">Nazev podkategorie</string>
     <string name="txt_category_heading">Kategorie:</string>
+    <string name="txt_add_record_heading">Vyberte kategorii</string>
+    <string name="txt_add_record_heading_subcategory">Vyberte podkategoii</string>
+    <string name="btn_add_record">Pridat casovy usek</string>
 </resources>

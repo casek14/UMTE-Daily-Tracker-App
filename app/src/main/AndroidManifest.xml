@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".AktivityDetail" />
-        <activity android:name=".add_subcategory"></activity>
+        <activity android:name=".add_subcategory" />
+        <activity android:name=".Add_time_record"></activity>
     </application>
 
 </manifest>
